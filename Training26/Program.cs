@@ -1,10 +1,6 @@
-﻿namespace training26
-{
-    internal class Program
-    {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, World!");
-        }
+﻿namespace training26;
+internal class Program {
+    static void Main(string[] args) {
+        Console.WriteLine("Hello, World!");
     }
 }
